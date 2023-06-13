@@ -1,2 +1,2 @@
 #!/bin/bash
-cut "A" "Z" | cut "c" "e"
+tr "A" "Z" | tr "c" "e"
