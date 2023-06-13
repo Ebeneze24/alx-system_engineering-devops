@@ -1,0 +1,2 @@
+#!/bin/bash
+cut "A" "Z" | cut "c" "e"
