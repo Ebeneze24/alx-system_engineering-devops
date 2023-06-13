@@ -1,0 +1,18 @@
+total 52
+drwxr-xr-x 2 ifeoluwa ifeoluwa 4096 Jun 13 06:10 .
+drwxr-xr-x 5 ifeoluwa ifeoluwa 4096 Jun 11 20:26 ..
+-rwxr-xr-x 1 ifeoluwa ifeoluwa   32 Jun 11 20:27 0-hello_world
+-rwxr--r-- 1 ifeoluwa ifeoluwa   28 Jun 12 17:01 1-confused_smiley
+-rwxr--r-- 1 ifeoluwa ifeoluwa   29 Jun 11 20:55 2-hellofile
+-rwxr--r-- 1 ifeoluwa ifeoluwa   39 Jun 11 21:00 3-twofiles
+-rwxr--r-- 1 ifeoluwa ifeoluwa   29 Jun 11 21:05 4-lastlines
+-rwxr--r-- 1 ifeoluwa ifeoluwa   29 Jun 11 21:12 5-firstlines
+-rwxr--r-- 1 ifeoluwa ifeoluwa   41 Jun 12 17:17 6-third_line
+-rwsr--r-- 1 ifeoluwa ifeoluwa   88 Jun 12 17:51 7-file
+-rwxr--r-- 1 ifeoluwa ifeoluwa   36 Jun 13 06:10 8-cwd_state
+-rw-r--r-- 1 ifeoluwa ifeoluwa   22 Jun 11 20:26 README.md
+-rw-r--r-- 1 ifeoluwa ifeoluwa    0 Jun 12 17:45 \*\'"Best School"'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 ifeoluwa ifeoluwa    0 Jun 12 17:42 \*\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 ifeoluwa ifeoluwa    0 Jun 12 17:36 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 ifeoluwa ifeoluwa   79 Jun 11 21:50 iacta
+-rw-r--r-- 1 ifeoluwa ifeoluwa    0 Jun 13 06:12 ls_cwd_content
